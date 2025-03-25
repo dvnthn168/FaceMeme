@@ -1,0 +1,3 @@
+C:/Workspaces/dvnthn/image_text/build/CMakeFiles/main.dir
+C:/Workspaces/dvnthn/image_text/build/CMakeFiles/ALL_BUILD.dir
+C:/Workspaces/dvnthn/image_text/build/CMakeFiles/ZERO_CHECK.dir
